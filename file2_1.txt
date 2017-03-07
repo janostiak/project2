@@ -10,3 +10,4 @@
 80
 90
 100
+zeby sme uz boli v branch pocty
