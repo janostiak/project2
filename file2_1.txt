@@ -13,3 +13,4 @@
 zeby sme uz boli v branch pocty
 pridanie dalsieho pre branch POCTY
 nechapem toto.
+takze pre pocty dalsi.
